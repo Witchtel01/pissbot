@@ -1,0 +1,4 @@
+colorzero==2.0
+gpiozero==2.0.1
+pygame==2.6.1
+setuptools==75.1.0
